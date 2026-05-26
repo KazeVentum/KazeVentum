@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KazeVentum
-- 👀 I’m interested in learn Programmation
-- 🌱 I’m currently learning Java
+- 👀 Java Developer
+- 🌱 I’m currently working on "Caracol Tv" company
 - 📫 How to reach me ("Chris")
 
 <!---
